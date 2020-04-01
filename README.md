@@ -59,7 +59,7 @@
 
 - 创建型模式（五种）
     - 单例模式 [单例模式 Java 示例](./singleton-pattern)
-    - 简单工厂模式
+    - 简单工厂模式[简单工厂模式 Java 示例](./simple-factory-pattern)
     - 抽象工厂模式
     - 建造者模式
     - 原型模式
