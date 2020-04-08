@@ -61,7 +61,7 @@
     - 单例模式 [单例模式 Java 示例](./singleton-pattern)
     - 简单工厂模式 [简单工厂模式 Java 示例](./simple-factory-pattern)
     - 抽象工厂模式 [抽象工厂模式 Java 示例](./abstract-factory-pattern)
-    - 建造者模式
+    - 建造者模式 [建造者模式 Java 示例](./builder-pattern)
     - 原型模式
 
 - 结构型模式（七种）
